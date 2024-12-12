@@ -49,7 +49,7 @@ Welcome to the **Global Superstore Analysis** project! 🛒✨ This project expl
 
 Here’s a glimpse of the **Tableau Dashboard**:  
 
-![Dashboard Example](https://via.placeholder.com/600x300)  
+[Dashboard Preview](https://public.tableau.com/views/GlobalSuperstoreDashboard_17282375065260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
  
 
 ---

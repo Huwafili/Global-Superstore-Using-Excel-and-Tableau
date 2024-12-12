@@ -1,6 +1,6 @@
 # 🌟 Global Superstore Analysis 📊
 
-Welcome to the **Global Superstore Analysis** project! 🛒✨ This project explores the rich **Global Superstore Dataset**, providing insights into sales, profits, and regional performance. Using **Excel** for initial exploration and **Tableau** for visualization, I’ve created an interactive dashboard that brings the data to life! 🌍📈  
+Welcome to the **Global Superstore Analysis** project! 🛒✨ This project explores the rich **Global Superstore Dataset**, providing insights into sales, profits, and regional performance. Using **Excel** for initial exploration and **Tableau** for visualization, I have created an interactive dashboard that brings the data to life! 🌍📈  
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to the **Global Superstore Analysis** project! 🛒✨ This project expl
      - 🚚 Shipping Modes and Delivery Insights  
 
 3. **Interactive Dashboard**:  
-   Combined these visuals into a **Tableau Dashboard** for a holistic view of the data.  
+   Combined these visuals into a **Tableau Dashboard** for a holistic data view.  
 
 ---
 
